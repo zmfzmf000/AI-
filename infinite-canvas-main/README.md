@@ -122,7 +122,6 @@ docker compose up -d
 
 学 AI，上 L 站：[LinuxDO](https://linux.do/)
 
-点击链接加入群聊【AI开源交流】：https://qm.qq.com/q/DFnKzZ807u
 
 ## 开源协议
 
