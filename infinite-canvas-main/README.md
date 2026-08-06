@@ -109,8 +109,7 @@ docker compose up -d
 ## 联系方式
 
 项目定制二次开发需求 / 生图 API 需求可联系。
-
-邮箱：1844025705@qq.com · QQ：1844025705
+ 
 
 ## 赞助支持
 
@@ -121,8 +120,7 @@ docker compose up -d
 ## 社区支持
 
 学 AI，上 L 站：[LinuxDO](https://linux.do/)
-
-点击链接加入群聊【AI开源交流】：https://qm.qq.com/q/DFnKzZ807u
+搜索公众号FFF的创意屋
 
 ## 开源协议
 
